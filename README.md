@@ -29,7 +29,8 @@
 				git add .
 				git rebase --continue
 			- 7: push code
-- Báo cáo công việc: 
+- Báo cáo công việc:
+  \n 
   Ngày ... tháng ... năm
 \# Công việc hôm nay
 1. Tên công việc
