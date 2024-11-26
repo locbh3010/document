@@ -32,7 +32,7 @@
 - Báo cáo công việc:
 # 
 Ngày ... tháng ... năm
-# Công việc hôm nay
+\# Công việc hôm nay
 1. Tên công việc
 	mô tả: 
 	Tiến độ: 
