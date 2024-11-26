@@ -32,10 +32,13 @@
 - Báo cáo công việc:
 # 
 Ngày ... tháng ... năm
+#
 \# Công việc hôm nay
+#
 1. Tên công việc
 	mô tả: 
 	Tiến độ: 
-	Link pull request (nếu có): 
+	Link pull request (nếu có):
+#
 \# Công việc ngày mai
  -- như trên
